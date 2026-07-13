@@ -1,0 +1,15 @@
+{
+    "DESIGN_NAME": "top",
+    "VERILOG_FILES": [
+        "src/baud_gen.v",
+        "src/control_fsm.v",
+        "src/fifo.v",
+        "src/i2c_slave.v",
+        "src/reg_file.v",
+        "src/top.v",
+        "src/uart_rx.v",
+        "src/uart_tx.v"
+    ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10
+}
